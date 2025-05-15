@@ -1,0 +1,9 @@
+[
+  { "nombre": "Laptop", "precio": 1000, "imagen": "https://cdn-icons-png.flaticon.com/512/179/179386.png" },
+  { "nombre": "Mouse", "precio": 50, "imagen": "https://cdn-icons-png.flaticon.com/512/1046/1046857.png" },
+  { "nombre": "Teclado", "precio": 80, "imagen": "https://cdn-icons-png.flaticon.com/512/109/109602.png" },
+  { "nombre": "Monitor", "precio": 300, "imagen": "https://cdn-icons-png.flaticon.com/512/681/681494.png" },
+  { "nombre": "Auriculares", "precio": 120, "imagen": "https://cdn-icons-png.flaticon.com/512/2950/2950431.png" }
+]
+
+  
